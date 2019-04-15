@@ -49,3 +49,7 @@ body,header {border-radius:20px 20px 20px 20px; }
     text-align: center;
     font-size: 20px;
 }
+
+.text {
+    text-align: center;
+}
